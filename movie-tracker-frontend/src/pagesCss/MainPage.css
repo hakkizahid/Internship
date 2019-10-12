@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(3, 64, 90)
+}
+
+.outerDiv2{
+    text-align: center;
+    margin: 15px;
+}
+
+.headerDiv{
+    
+}
+
+.mainTitle{
+    color: white;
+    font-size: 100px;
+}
+
+.mainTitle:hover{
+    color: rgb(255, 247, 0);
+    font-size: 100px;
+}
+
+.linker{
+    color: white;
+    font-size: 50px;
+}
+
+.linker:hover{
+    color: rgb(255, 196, 0);
+    font-size: 60px;
+}

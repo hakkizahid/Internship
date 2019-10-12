@@ -1,0 +1,74 @@
+.outerDiv3{
+    margin: 5px;
+    text-align: center;
+}
+
+.moviesTitle{
+    font-size: 70px;
+    font-weight: 500
+}
+
+th , td{
+    width: 175px;
+    height: 25px;
+    text-align: center;
+}
+
+th{
+    background-color: lightgrey;
+}
+
+td{
+    background-color: white
+}
+
+
+.textArea{
+    text-align: center;
+    background-color: white;
+    color: blue;
+    border: blue dotted;
+    padding-bottom: 10px;
+}
+
+.moviesTable{
+    width: 100%;
+    border: black solid;
+}
+
+.vehicleTableDiv{
+    margin-bottom: 20px;
+}
+
+.buttonUpdate{
+    background-color: aqua;
+}
+.buttonDelete{
+    background-color: tomato;
+}
+
+.addlinkerMovies{
+    color: black;
+    background-color: white;
+    font-size: 25px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+
+.addlinkerMovies:hover{
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    border: 2px solid white;
+    margin-bottom: 10px;
+}
+
+.linkerMovies{
+    color: white;
+    font-size: 25px;
+}
+
+.linkerMovies:hover{
+    color: rgb(255, 196, 0);
+    font-size: 25px;
+}

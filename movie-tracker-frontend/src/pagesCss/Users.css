@@ -1,0 +1,71 @@
+.outerDiv5{
+    margin: 5px;
+    text-align: center;
+}
+
+.usersTitle{
+    font-size: 70px;
+    font-weight: 500
+}
+
+th , td{
+    width: 175px;
+    height: 25px;
+    text-align: center;
+}
+
+th{
+    background-color: lightgrey;
+}
+
+td{
+    background-color: white
+}
+
+
+.textArea{
+    text-align: center;
+    background-color: white;
+    color: blue;
+    border: blue dotted;
+    padding-bottom: 10px;
+}
+
+.usersTable{
+    width: 100%;
+    border: black solid;
+}
+
+.vehicleTableDiv{
+    margin-bottom: 20px;
+}
+
+.buttonUpdate{
+    background-color: aqua;
+}
+.buttonDelete{
+    background-color: tomato;
+}
+
+.linkerUsers{
+    color: white;
+    font-size: 25px;
+}
+
+.linkerUsers:hover{
+    color: rgb(255, 196, 0);
+    font-size: 25px;
+}
+
+.addlinkerUsers{
+    color: white;
+    font-size: 25px;
+    border: 2px solid black;
+}
+
+.addlinkerUsers:hover{
+    color: black;
+    background-color: white;
+    font-size: 25px;
+    border: 2px solid black
+}

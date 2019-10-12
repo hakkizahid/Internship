@@ -1,0 +1,72 @@
+.outerDiv4{
+    margin: 5px;
+    text-align: center;
+}
+
+.directorsTitle{
+    font-size: 70px;
+    font-weight: 500
+}
+
+th , td{
+    width: 175px;
+    height: 25px;
+    text-align: center;
+}
+
+th{
+    background-color: lightgrey;
+}
+
+td{
+    background-color: white
+}
+
+
+.textArea{
+    text-align: center;
+    background-color: white;
+    color: blue;
+    border: blue dotted;
+    padding-bottom: 10px;
+}
+
+.directorsTable{
+    width: 100%;
+    border: black solid;
+}
+
+.vehicleTableDiv{
+    margin-bottom: 20px;
+}
+
+.buttonUpdate{
+    background-color: aqua;
+}
+.buttonDelete{
+    background-color: tomato;
+}
+
+.linkerDirectors{
+    color: white;
+    font-size: 25px;
+}
+
+.linkerDirectors:hover{
+    color: rgb(255, 196, 0);
+    font-size: 25px;
+}
+
+
+.addlinkerDirectors{
+    color: white;
+    font-size: 25px;
+    border: 2px solid black;
+}
+
+.addlinkerDirectors:hover{
+    color: black;
+    background-color: white;
+    font-size: 25px;
+    border: 2px solid black
+}

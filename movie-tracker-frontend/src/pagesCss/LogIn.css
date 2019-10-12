@@ -1,0 +1,33 @@
+.outerDiv1{
+    color: aliceblue;
+    text-align: center;
+    margin: 15px;
+}
+.divDiv{
+    margin: 15px;
+    border: 2px solid white;
+}
+
+.welcome{
+    font-size: 70px;
+    margin-bottom: 50px;
+}
+
+.nameL{
+    font-size: 50px;
+}
+
+.textL{
+    width: 300px;
+    height: 30px;
+    font-size: 25px;
+}
+
+.buttonStyle{
+    border: 2px solid black;
+    background-color: aqua;
+    height: 50px;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 300px;
+}
